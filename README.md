@@ -91,8 +91,6 @@ The dataset contains features such as:
 
 ---
 
-## 🚀 How to Run
-
 
 
 ## 📁 Project Structure
